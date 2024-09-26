@@ -5,7 +5,7 @@
         static void Main(string[] args)
         {
             Victornavn.UdskrivNavn();
-            MarkasaClass.WriteName();
+            ClassMarkas.WriteName();
         }
     }
 }

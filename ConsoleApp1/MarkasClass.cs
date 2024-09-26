@@ -2,7 +2,7 @@
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Project
+namespace ConsoleApp1
 {
     class ClassMarkas
 
@@ -12,7 +12,7 @@ namespace Project
 
         {
 
-            Console.WriteLine("Hej Markas");
+            Console.WriteLine("Jeg hedder Markas");
 
         }
     }
